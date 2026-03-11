@@ -1,4 +1,5 @@
 pandas
+<<<<<<< HEAD
 numpy
 matplotlib
 seaborn
@@ -7,3 +8,13 @@ ipykernel
 joblib
 scipy
 scikit-learn
+=======
+matplotlib
+numpy
+seaborn
+scipy
+scikit-learn
+jupyter
+joblib
+statsmodel
+>>>>>>> 17bb0ef27c958ec7915b58c9a05f6a56ec09956f
